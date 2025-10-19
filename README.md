@@ -18,4 +18,5 @@ https://www.virtualbox.org/wiki/Downloads --> VirtualBox 7.2.2 platform packages
 
 ## Task 1: install ubuntu 24.04 server in virtualbox
 - download ubuntu 24.04 server ISO image : https://ubuntu.com/download/server
-- how to install ubuntu in virtualbox: https://www.youtube.com/watch?v=DhVjgI57Ino 
+- how to install ubuntu in virtualbox: https://www.youtube.com/watch?v=ElNalqvVaPw
+  - verify ssh server works in ubuntu server

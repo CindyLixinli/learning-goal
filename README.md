@@ -24,3 +24,9 @@ https://www.virtualbox.org/wiki/Downloads --> VirtualBox 7.2.2 platform packages
 ## Task 2: Good Beginner Resources
 - Linux Journey: https://linuxjourney.com
 - Ubuntu Command Cheat Sheet (official): https://ubuntu.com/tutorials/command-line-for-beginners
+
+## Task 3: Install git in Ubuntu
+-- https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+## Task 4: Practice git
+-- https://git-scm.com/book/en/v2
